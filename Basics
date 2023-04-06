@@ -15,6 +15,7 @@
 
 > npm run dev             // http://localhost:5173
 
-// Extension of TypeScript files are .ts (for plain TS files) or .tsx (for TS components)
+// !!!!!! Extension of TypeScript files are .ts (for plain TS files) or .tsx (for TS components)
+// !!!!!! For functions always use the PascalCasing (Capitalize letter of every word) - It's a standart
 
 // >>>>> 
