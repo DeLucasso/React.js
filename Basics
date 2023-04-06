@@ -1,0 +1,20 @@
+// >>>>> To Create a react APP with Vite:
+
+> npm create vite@latest  // or vite@4.1.0 for exact version
+> Project name: <name it like you want to>
+> Select a framework: React
+> Select a language: TypeScript
+
+// Lets' install all libraries
+> cd react-app
+> npm i
+> code .                  // Opens VS Code
+
+// At VS Code you can open Terminate with Ctrl + `
+// To run a webserver
+
+> npm run dev             // http://localhost:5173
+
+// Extension of TypeScript files are .ts (for plain TS files) or .tsx (for TS components)
+
+// >>>>> 
